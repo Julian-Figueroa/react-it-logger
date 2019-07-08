@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "03-07-2019",
-      "tech": "Paul Preacher"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Printing machine is on fire",
       "attention": true,
-      "date": "03-07-2019",
-      "tech": "Aaron Carmouche"
+      "tech": "Sara Connor",
+      "date": "2019-07-08T22:07:15.411Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Change memory on workstation 050",
+      "message": "network card is failing",
       "attention": false,
-      "date": "03-07-2019",
-      "tech": "Sara Connor"
+      "tech": "Paul Preacher",
+      "date": "2019-07-08T22:07:37.347Z",
+      "id": 2
     }
   ],
   "techs": [
