@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "network card is failing",
+      "id": 2,
+      "message": "network card was replaced by a new one",
       "attention": false,
       "tech": "Paul Preacher",
-      "date": "2019-07-08T22:07:37.347Z",
-      "id": 2
+      "date": "2019-07-09T12:39:28.887Z"
     }
   ],
   "techs": [
